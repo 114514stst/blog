@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "blog",
+    "description": "",
+    "home_page_url": "https://114514st.top",
+    "feed_url": "https://114514st.top/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "114514st"
+    },
+    "items": [
+        {
+            "id": "https://114514st.top/im-cge-cant-get-enough.html",
+            "url": "https://114514st.top/im-cge-cant-get-enough.html",
+            "title": "im cge can&#x27;t get enough",
+            "author": {
+                "name": "114514st"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-20T22:16:52+08:00",
+            "date_modified": "2026-08-20T22:16:52+08:00"
+        }
+    ]
+}
