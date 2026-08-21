@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "ST&#x27;sblog",
+    "title": "ST&#x27;s blog",
     "description": "",
     "home_page_url": "https://114514st.top",
     "feed_url": "https://114514st.top/feed.json",
@@ -15,14 +15,14 @@
             "url": "https://114514st.top/im-cge-cant-get-enough.html",
             "title": "新的开始",
             "summary": "今天是我编辑这个博客的第一天，在昨天晚上我的朋友DmDh 帮助我创建了这个个人blog网站，从今天起我会不定期发布博客，记录我的日常生活。",
-            "content_html": "<p class=\"align-left\">今天是我编辑这个博客的第一天，在昨天晚上我的朋友<a href=\"dmdh.me\" target=\"_blank\" rel=\"noopener noreferrer\">DmDh</a> 帮助我创建了这个个人blog网站，从今天起我会不定期发布博客，记录我的日常生活。</p>",
+            "content_html": "<p class=\"align-left\">今天是我编辑这个博客的第一天，在昨天晚上我的朋友<a href=\"https//dmdh.me\" target=\"_blank\" rel=\"noopener noreferrer\">DmDh</a> 帮助我创建了这个个人blog网站，从今天起我会不定期发布博客，记录我的日常生活。</p>",
             "author": {
                 "name": "114514st"
             },
             "tags": [
             ],
             "date_published": "2026-08-20T22:16:52+08:00",
-            "date_modified": "2026-08-21T22:18:48+08:00"
+            "date_modified": "2026-08-21T22:44:31+08:00"
         }
     ]
 }
