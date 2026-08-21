@@ -3,14 +3,14 @@
     <title>blog</title>
     <link href="https://114514st.top/feed.xml" rel="self" />
     <link href="https://114514st.top" />
-    <updated>2026-08-20T23:40:38+08:00</updated>
+    <updated>2026-08-21T18:49:12+08:00</updated>
     <author>
         <name>114514st</name>
     </author>
     <id>https://114514st.top</id>
 
     <entry>
-        <title>I&#x27;m CGE Can&#x27;t Get Enough</title>
+        <title>新的开始</title>
         <author>
             <name>114514st</name>
         </author>
@@ -18,7 +18,15 @@
         <id>https://114514st.top/im-cge-cant-get-enough.html</id>
 
         <updated>2026-08-20T22:16:52+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    今天是我编辑这个博客的第一天，在昨天晚上我的朋友DmDh帮助我创建了这个个人blog网站，从今天起我会不定期发布博客，记录我的日常生活
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left">今天是我编辑这个博客的第一天，在昨天晚上我的朋友DmDh帮助我创建了这个个人blog网站，从今天起我会不定期发布博客，记录我的日常生活</p>
+            ]]>
+        </content>
     </entry>
 </feed>
